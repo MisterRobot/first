@@ -6,26 +6,3 @@ author: Wferr
 baseurl: "/first" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 encoding: UTF-8
-comments:
-provider : disqus
-
-disqus :
-short_name : jekyllbootstrap
-livefyre :
-site_id : 123
-intensedebate :
-account : 123abc
-facebook :
-appid : 123
-num_posts: 5
-width: 580
-colorscheme: light
-nav:
-  - text: about
-    url: /about/index.html
-  - text: resume
-    url: /resume/index.html
-  - text: contact
-    url: /contact/index.html
-  - text: blog
-    url: /blog/index.html
