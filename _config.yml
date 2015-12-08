@@ -3,7 +3,7 @@ title: Modern Blog
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
 author: Wferr
-baseurl: "/first" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 encoding: UTF-8
 comments:
